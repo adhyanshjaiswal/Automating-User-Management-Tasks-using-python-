@@ -1,0 +1,16 @@
+[
+    {
+        "username": "adhyansh",
+        "password": "hey@123",
+        "home_directory": "D:/pine academy/user_adhyansh",
+        "shell": "/bin/bash",
+        "expiry_date": "2025-01-05"
+    },
+    {
+        "username": "ravi",
+        "password": "yoyo35@#",
+        "home_directory": "D:/pine academy/user_ravi",
+        "shell": "/bin/bash",
+        "expiry_date": "2025-02-02"
+    }
+]
